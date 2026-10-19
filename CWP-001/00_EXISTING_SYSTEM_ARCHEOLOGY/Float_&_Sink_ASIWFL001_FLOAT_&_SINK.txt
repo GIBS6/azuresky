@@ -1,0 +1,120 @@
+1. PURPOSE
+The purpose of this procedure is to describe the method for conducting float-and-sink analysis on coarse coal using zinc chloride (ZnCl₂) solutions as the density medium. The procedure is derived from ISO 7936:2022 and adapted for ROM coal and borehole core samples. The results are used to assess washability characteristics, coal quality variability, and potential beneficiation performance.
+2. SCOPE
+This SOP applies to all float-and-sink determinations on coarse coal received, specifically:
+ROM samples
+Borehole core samples
+3. REFERENCES
+ISO 7936:2022 – Hard coal — Determination of Hard Coal Washability by Dense Medium Separation
+ISO 1171 – Ash determination
+ISO 13909-3- Preparation of hard coal
+ASMF F&S-01 Form – Float & Sink Data Sheet
+4. RESPONSIBILITIES
+Preparation Operator: Receive, weigh, and document samples.
+Analyst / Preparation Technician: Perform crushing, screening, splitting, float-and-sink testing, rinsing, drying and weighing.
+Laboratory Supervisor: Verify density solutions, ensure adherence to QC requirements, approve results.
+5. DEFINITIONS
+Float fraction: Portion of coal that remains buoyant at a specific relative density.
+Sink fraction: Portion of coal that sinks at a specific relative density.
+ZnCl₂ Medium (65%): Density-controlled zinc chloride aqueous solution used for relative densities between 1.30–1.90.
+6. SAFETY AND ENVIRONMENT
+ZnCl₂ solutions are corrosive → use gloves, goggles, apron & face shield.
+Avoid skin contact; rinse immediately if contact occurs.
+Rinse tanks and floors carefully to avoid chemical buildup.
+7. MATERIALS AND EQUIPMENT
+Jaw Crushers (jaw crusher capable of -25 mm output)
+0.5 mm sieve
+Splitter
+Density media (validated ZnCl₂ solutions)
+Buckets or separation vessels
+Mixing rod
+Wire mesh scoop
+Rinsing water supply 
+Drying trays
+Analytical balance (±1 g accuracy for coarse fractions)
+ASMF F&S-01 Form
+PPE
+8. PROCEDURE
+8.1 Sample Receiving
+Receive the sample and record:
+Sample ID, client, date/time, mass received.
+Enter details into the Sample Receiving Book.
+Store the sample in a secure location pending preparation details.
+8.2 Sample Preparation
+8.2.1 Crushing
+Crush entire sample to -25 mm.
+Split the sample using a rotary splitter to extract a representative sample and a reserve sample.
+8.2.2 Screening
+Screen the sample using 0.5 mm screen to screen out the fines. Fines are not easily separated as they take long to separate.
+Collect:
++0.5 mm fraction → for float-and-sink
+-0.5 mm fines → split, retain portion for analysis
+       3. Samples shall be floated in 6 Kg portions.
+8.3 Float and Sink Testing
+8.3.1 Preparation of ZnCl₂ Density Media
+Prepare validated ZnCl₂ solutions at the required relative densities (e.g., 1.30, 1.40, 1.50, 1.60, 1.80, 1.90). Validate the densities using the form ASMF F&S 02 Form. Validation of densities is to take place before each use. 
+This process is achieved by balancing the density of the dense medium with water to reach a desired relative density. When a floatation drum becomes higher than the desired density, pour water to decrease the relative density and vice versa when the relative density is lower than the desired mark as read on the hydrometer.
+Confirm density using a calibrated hydrometer.
+Record density and temperature.
+8.3.2 Performing the Separation
+For each density step:
+A. Charging the Bucket
+Weigh 6 kg of the -25 mm sample and transfer into a straining bucket.
+Slowly place the sample into the density medium to minimize splashing.
+Some of the sample will easily float to the surface of the medium. Scoop the material using a wire mesh scoop into a container.
+B. Mixing and Separation
+Agitate the sample gently but thoroughly using a mixing rod.
+Allow sufficient time for trapped particles to surface.
+Scoop the resurfaced particles into a container.
+C. Collection of Float Fraction
+Float particles are generally considered to be in the top 25% of the liquid depth.
+Scoop floats using a wire mesh scoop.
+Rinse floats thoroughly:
+ZnCl₂ binds easily to the porous nature of coal
+Care should be given to rinse the particles thoroughly so most if not all, the medium is off the particles.
+D. Draining and Drying
+Drain excess water.
+Label the floats accordingly and air-dry the floats until they are visibly dry.
+Weigh and record mass on ASMF F&S-01 Form.
+E. Sink Fraction
+Repeat mixing and scooping until no more floats remain.
+Sink fraction may be:
+Used for next density step, OR
+Collected at the final density.
+8.3.3 Mass Balance Check (ISO Requirement)
+Calculate:
+According to ISO 7936, the allowable mass balance deviation is ≤ 2%.
+8.3.4 Comminution for Analysis
+Crush each float and sink fraction to -3 mm.
+Pulverize to -212 µm.
+Submit for chemical analysis as per client request.
+A well-performed test will show:
+Gradual increase in ash results as the RD increases
+This creates the expected washability curve.
+9. QUALITY CONTROL
+Density solutions must be verified before each test.
+Any density drift >0.002 g/cm³ requires re-preparation.
+Equipment must be cleaned after each test to avoid cross-contamination.
+Repeat analysis if mass balance deviation >2%.
+The Supervisor must sign off the ASMF F&S-01 form.
+10. CALCULATIONS
+10.1 Float Yield (%)
+10.2 Cumulative Yield (%)
+Calculated by summing successive floats.
+10.3 Ash vs. RD Curve
+Used to evaluate separation performance and quality trends.
+11. REPORTING
+The final washability report shall include:
+Sample ID
+Test densities
+Float and sink mass at each cut point
+Cumulative yields
+Ash/quality data per fraction
+Washability curves (Yield vs. Ash, Yield vs. RD)
+Statement of conformity to ISO 7936
+12. RECORDS
+Sample Receiving Book
+ASMF F&S-01 Data Sheet
+Density calibration logs
+Instrument calibration certificates
+Final washability report

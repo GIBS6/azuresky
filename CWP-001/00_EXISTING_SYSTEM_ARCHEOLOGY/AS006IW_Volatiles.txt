@@ -1,0 +1,130 @@
+Table of Contents
+INTRODUCTION2
+SCOPE AND FIELD OF APPLICATION2
+REFERENCES2
+EQUIPMENT3
+VERIFICATIONS3
+OPERATING INSTRUCTIONS4
+CALCULATIONS5
+RECORDS5
+REPEATABILITY & REPRODUCIBILITY5
+RESPONSIBILITIES5
+REVISION TABLE5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INTRODUCTION
+The volatile matter content of coal is determined as the loss in mass, less that due to moisture, when coal is incinerated in specified conditions in the absence of air.
+ Use form (AS013TF) to record the furnace temperature.
+SCOPE AND FIELD OF APPLICATION
+
+This test method describes the procedure for the determination of the volatile matter in hard coal samples.
+The results are verified using certified reference material and by plotting a control chart. The chart contains upper and lower limits, any result that falls outside this range is said to be “out or failed”. Using this chart, the lab can detect problems with either the equipment, staff or possible environmental effects. In essence, the chart is used to initiate an investigation by the analyst to 
+determine the probable cause.
+REFERENCES
+
+ISO 562:2010 - Hard coal and coke - Determination of volatile matter.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Note: ONLY Personnel who are declared competent are to perfrom laboratory activities. personnel not declared are to strictly work under supervision of a lab manager/supervisor or competent personnel.
+EQUIPMENT
+An electrically heated muffle furnace in which an adequate zone, at a constant and uniform temperature of 900 ±5°C can be maintained. The heat capacity shall be such that with an initial temperature of 900°C, a minimum temperature of 896°C is regained within four minutes after the insertion of a cold crucible stand and its crucibles into the furnace.
+Cylindrical crucible with lid, both of glazed silica, 38mm height x 25mm O.D., conforming to ISO 562:2010.
+Heat-resistant wire stands capable of suspending four crucibles.
+Analytical balance accurate to 0.0001g
+Furnace tongs capable of rapidly inserting or removing crucible stands with crucibles from the furnace.
+Stopwatch or timer capable of accurately timing seven minutes ±7 seconds.
+A desiccator.
+Desiccant - self indicating silica gel.
+VERIFICATIONS
+
+VOLATILE FURNACE
+Volatile furnace verification is to be done using form AS027TF following these instructions: When the furnace reaches 900ºC, insert the probe into the furnace & capture the 1st read at 4 minutes on the external thermometer. Capture the second and third read at 7-minute intervals consecutively. Apply the correction factors as specified in the calibration certificates of the external thermometers. The principle is to mathematically add the correction factor.
+Verification is to be done weekly, every Monday.
+
+CRUCIBLES
+New crucibles together with the lids shall be verified for mass compliance. Crucibles together with the lids shall range between 10g to 14g. Crucibles not meeting this requirement shall not be used. Crucibles together with their lids shall be labelled to prevent interchanging of the lids, which could affect the mass of the crucible. Form AS029TF shall be used to record crucible verification for new crucibles. 
+
+
+The fit of the lid on the crucible is critical to the determination. A lid shall be selected to match the crucible so that the horizontal clearance between them is no greater than 0,5 mm. The selected crucible and lid shall be ground together to give smooth surfaces.
+OPERATING INSTRUCTIONS
+Collect conditioned and bottled samples on which the volatile matter content shall be determined.
+Make sure the crucibles are clean and in numerical order.
+Tare the balance, weigh the crucibles with lids and record weights (M1) onto the crucible field on the volatile matter analysis sheet (LIMS).
+Tare the balance, mix the sample thoroughly with a spatula and introduce between 0.95g and 1.05g of sample into the crucibles(M2).
+Tap the crucibles lightly on a hard top, weigh and record on LIMS(When conducting the analysis manually, record on the volatile analysis sheet).
+Place crucibles in stands and proceed to the furnace room.
+With the crucibles placed in stands and being satisfied that the furnace temperature is stable at 900 ±5 °C, place the stand with the crucibles into the furnace in a way that the four crucibles are at equal distance from the thermocouple. This operation shall be done swiftly to prevent unnecessary temperature loss. Minimize the time taken to open, insert, and close the furnace. If fewer than four determinations are carried out, any vacant places in the stand should be filled with empty crucibles.
+Record the initial temperature before opening the crucible door on the volatile temperature recording form (AS013TF).
+Insert the crucibles into the volatile furnace as outlined in point 7, close the furnace door immediately, and start the stopwatch.
+Record the temperature displayed after 4minutes to check if it has recovered to 900 ±5 °C (If the furnace has not recovered, discontinue the analysis and run repeat analyses.).
+Keep the crucible in the furnace for 7min + 2 seconds and record the end temperature.
+Remove the stand + crucibles and place on a metal plate for 5min.
+SAFETY NOTE: WHEN THE STAND AND CRUCIBLES ARE REMOVED FROM THE FURNACE IT IS EXTREMELY HOT. ALWAYS USE TONGS WHEN HANDLING THIS HOT APPARATUS.
+Proceed to the conditioning/analysis room and place the stand with crucibles in the desiccator for 10min.
+ Tare the balance weigh back and record weight (M3) onto the final mass field on the volatile matter analysis sheet.
+Run control sample after every 4 samples, this will allow you to check for possible drift on the instrument.
+If the control sample is out of the repeatability limit, re-run the control and if still out of repeatability limits or acceptable range, investigate the root cause.
+If the control sample is within repeatability, calculate the results to dry basis and plot the control chart.
+Clean the crucibles by incineration in a furnace for 5 minutes after each test.
+CALCULATIONS
+Note: Calculation can be done manually and recorded in form AS013TF as below, or using the Prox calculation spreadsheet. Consequently, LIMS is used for the calculation of results.
+
+ 
+Where: 
+              M1 = Mass of empty crucible in grams.
+              M2 = Mass of crucible with conditioned coal in grams.
+              M3 = Mass of crucible with burnt coal in grams.
+RECORDS
+Records of all analysis, calculations and reports shall be stored in the files for that purpose or stored on the database. Technical records shall be stored for 2 accreditation cycles.
+
+REPEATABILITY & REPRODUCIBILITY
+The repeatability between duplicate results of the same sample of coal with less than 10% volatile matter is 0.3% and 3% of the average results for volatiles higher than 10%.
+The reproducibility of volatile matter results (dry basis) is 0.5% absolute or 4% of the mean results whichever is greater.
+The results shall be reported to the nearest 0.1%
+RESPONSIBILITIES
+The Analyst shall be responsible for plotting the control charts and carrying out the necessary analysis & repeats. The analyst shall be responsible for initiating any investigation on deviations from this procedure. The supervisor shall ensure that the analyst is trained and deemed competent on this method. The supervisor shall arrange for calibrations as per the calibration schedule.
+REVISION TABLE
+Revision no
+Content changed
+Reason for revision
+01
+No change, only addition of information
+Under the equipment section, the process of verification of furnaces has been added as an improvement to the system.
+02
+Verification of the volatile furnace.
+Restructuring of the procedure and wording.
+Reduce redundancy and correct wording use.
+

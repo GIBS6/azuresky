@@ -1,0 +1,18 @@
+RELATIVE DENSITY
+ACTUAL READING
+F 1.30
+F 1.35
+F 1.40
+F 1.45
+F 1.50
+F 1.55
+F 1.60
+F 1.65
+F 1.70
+F 1.75
+F 1.80
+F 1.85
+F 1.90
+F 1.95
+F 2.00
+Note: Acceptable range from the desired relative density is ± 0.002 g/cm3

@@ -1,0 +1,403 @@
+AZURESKY (PTY) LTD
+MASTER MEASUREMENT UNCERTAINTY BUDGET
+(ISO/IEC 17025:2017 Clause 7.6 & SANAS F49 Requirements)
+1. Purpose and Scope
+This consolidated uncertainty budget encompasses all calibrated instruments used in the analytical determination of moisture, ash, volatile matter, fixed carbon, and calorific value.All calibrations are traceable to NMISA through SANAS-accredited laboratories (Micron Lab & Montech Calibration Services).
+2. The Crux / Nucleus of Method Validation
+Performance characteristics (range, accuracy, precision, repeatability) are clearly established.
+Methods and instruments are validated and verified for representative coal sample types.
+Results meet customer and method specifications, ensuring traceable, reliable measurements.
+3. General Calibration Information
+Customer
+AzureSky (Pty) Ltd – Unit 3, 17 Markiel Rd, Wadeville, Germiston 1401
+Contact Person
+nonhlanhla@azuresky.it.com
+Calibration Providers
+Micron Lab (Pty) Ltd – SANAS Accredited. No. 2017/365305/07Montech Calibration Services (Pty) Ltd – SANAS Accredited
+Traceability
+All results traceable to NMISA (South Africa)
+Confidence Level
+Expanded uncertainty with coverage factor k = 2 (≈ 95 % confidence)
+Decision Rule
+Within Tolerance / Out of Tolerance / Indeterminate (as per SANAS F49)
+4. Consolidated List of Calibrated Instruments
+Instrument
+Manufacturer / Model
+Serial No.
+Certificate No.
+Date of Calibration
+Next Due
+Expanded Uncertainty (k = 2)
+Status
+Analytical Balance
+BEL M124Ai
+ITA2500477
+SET 3
+25 Mar 2025
+Mar 2026
+± 0.0004 g
+Within Tolerance
+Top Pan Balance
+AE Adam CKT8H
+AEA90242156
+AZU T1.1 (CAL 103-03-00 / 14-00)
+Mar 2025
+Mar 2026
+± 0.3 g
+Within Tolerance
+Platform Scale
+Darvan Brenco 150 kg
+120330150
+SET 5 (25.03.2025)
+25 Mar 2025
+Mar 2026
+± 0.03 kg
+Within Tolerance
+Furnace (Volatile)
+ATS 210325/59V
+–
+AZU VF1.1 (CAL 103)
+Mar 2025
+Mar 2026
+± 4 °C
+Within Tolerance
+Furnace (Ashing)
+ATS 210325/74A
+–
+CAL 103
+Mar 2025
+Mar 2026
+± 4 °C
+Within Tolerance
+Oven
+Darvan Brenco 50 L
+DOV53A/210325/40
+CAL 103
+Mar 2025
+Mar 2026
+± 2 °C
+Within Tolerance
+Thermo-Hygrometer
+Sinometer SDC103
+OBS 202503-01
+HI253D13-31 (Montech)
+17–18 Mar 2025
+18 Mar 2026
+± 0.95 % RH / ± 0.2 °C
+Within Tolerance
+Digital Thermometer + Probe
+Sinometer DM6801B
+S1208105
+OBS T1.1a (Revised)
+14 Mar 2025
+Mar 2026
+± 0.3 °C
+Within Tolerance
+Weight Set 1
+OB WS1 (9 weights, 1 g – 100 g)
+–
+OB WS1.1R
+17 Mar 2025
+31 Mar 2026
+± 0.00005 – 0.0001 g
+Within Tolerance
+Weight Set 2
+OB WS2 (4 weights, 5 kg – 20 kg)
+–
+OB WS2.1R
+17 Mar 2025
+31 Mar 2026
+± 0.09 – 0.5 g
+Within Tolerance
+5. Uncertainty Budget Summaries
+5.1 Balances and Weights
+Balances and weights are evaluated jointly since mass calibration forms a single chain of traceability.
+Source
+Estimate
+Distribution
+Divisor
+u(xi)
+Type
+Notes
+Calibration (Weights + Balance)
+0.0004 g – 0.3 g
+Normal
+2
+0.0002 – 0.15
+B
+From SANAS certificates OB WS1.1R & WS2.1R
+Repeatability
+0.0001 g – 0.1 g
+Normal
+1
+0.0001 – 0.1
+A
+10 replicates
+Resolution
+Half readability
+Rectangular
+√3
+0.00006 – 0.06
+B
+Instrument display
+Air Buoyancy Effect
+Negligible
+Rectangular
+√3
+–
+B
+For small weights only
+Expanded U (k = 2):
+Analytical Balance = ± 0.0005 g
+Top Pan Balance = ± 0.4 g
+Platform Scale = ± 0.04 kg
+Weights = ± 0.0001 g to ± 0.5 g
+5.2 Temperature-Controlled Equipment
+(Ovens and Furnaces, including Digital Thermometer Probe)
+Source
+Estimate
+Distribution
+Divisor
+u(xi)
+Type
+Notes
+Controller Resolution
+1 °C
+Rectangular
+√3
+0.58
+B
+Display limit
+Sensor Drift
+1 °C
+Rectangular
+√3
+0.58
+B
+Thermocouple stability
+Mapping Variation
+1 °C
+Normal
+1
+1
+A
+Temp. mapping
+Calibration Certificate
+2–4 °C
+Normal
+2
+1–2
+B
+SANAS certificates CAL 103 / OBS T1.1a
+Expanded U (k = 2):
+Oven = ± 3 °C Furnaces = ± 5 °C Thermometer = ± 0.3 °C
+5.3 Thermo-Hygrometer
+Parameter
+Source
+Estimate
+Distribution
+u(xi)
+Type
+Notes
+Temperature (°C)
+Certificate HI253D13-31
+± 0.2 °C
+Normal
+0.1 °C
+B
+At 22.5 °C, 47 % RH
+Humidity (% RH)
+Certificate HI253D13-31
+± 0.95 % RH
+Normal
+0.48 % RH
+B
+Range 15 – 77 % RH
+Repeatability
+0.1 °C / 0.2 % RH
+Normal
+1
+0.1 °C / 0.2 % RH
+A
+From replicates under lab conditions
+Expanded U (k = 2): ± 0.2 °C and ± 0.95 % RH
+6. Combined Analytical Uncertainty
+Propagation of the individual equipment uncertainties shows that total analytical uncertainty remains well below the precision limits of ISO methods 589, 1171, 562, 5925 and ISO 1928.Therefore, measurement uncertainty does not materially affect analytical results, confirming fitness for purpose.
+7. Traceability and Compliance
+All instruments are traceable to national standards through SANAS-accredited calibration.Each certificate explicitly references ISO/IEC 17025 compliance, ensuring an unbroken chain of traceability to the SI units.
+8. Ash Specific Uncertainty budget
+Contributor
+Estimate / Value
+Distribution
+Divisor
+Standard Uncertainty u(xi​)
+Type
+Data Source
+Method Repeatability (s)
+0.2356%
+Normal
+1
+0.2356%
+A
+AS003MV Section: Repeatability
+Intermediate Precision
+0.2942%
+Normal
+1
+0.2942%
+A
+AS003MV Section: Precision
+CRM Uncertainty (AS002)
+0.135%
+Normal
+2
+0.0675%
+B
+AS003MV Section: Uncertainty
+Balance Calibration
+0.00015g
+Normal
+2
+0.000075g
+B
+UB001 Section 4 / AS003MV
+Furnace Calibration
+4.0°C
+Normal
+2
+2.0°C
+B
+UB001 Section 5.2 / AS003MV
+9. Calorific Value Specific Uncertainty budget
+Contributor
+Estimate / Value
+Distribution
+Divisor
+Standard Uncertainty u(xi​)
+Type
+Data Source
+Balance Calibration
+0.0004g
+Normal
+2
+0.0002g
+B
+UB001 Sec 4 (Analytical Balance) 
+Digital Thermometer
+0.3°C
+Normal
+2
+0.15°C
+B
+UB001 Sec 4 (Probe Calibration) 
+Method Repeatability
+0.0144MJ/kg
+Normal
+1
+0.0144MJ/kg
+A
+AS002MV Sec 3.4.1 (Validation Data) 
+CRM Homogeneity
+0.0117MJ/kg
+Normal
+1
+0.0117 MJ/kg
+A
+AS002MV Sec 3.4.1 (In-house CRM) 
+CRM Calibration/Value
+0.1083 MJ/kg
+Normal
+2
+0.0542MJ/kg
+B
+AS002MV Sec 3.4.1 (In-house CRM) 
+Bomb Stability
+Negligible
+Rectangular
+-
+B
+AS002MV Sec 3.4.1 
+10. ISO Volatile Specific Uncertainty budget
+Contributor
+Value
+Distribution
+Divisor
+Standard Uncertainty u(xi​)
+Type
+Data Source
+Method Repeatability
+0.417
+Normal
+1
+0.417%
+A
+AS001MV Section 4
+Balance Calibration
+0.0004g
+Normal
+2
+0.0002g
+B
+UB001 Section 4
+Furnace Temperature
+4 °C
+Normal
+2
+2.0°C
+B
+UB001 Section 5.2
+Robustness (Time)
+1 min
+Rectangular
+3
+0.577 min
+B
+AS001MV Section 9
+11. ISO Moisture Specific Uncertainty budget
+Contributor
+Value
+Distribution
+Divisor
+Standard Uncertainty u(xi​)
+Type
+Data Source
+Repeatability (sr)
+0.03518%
+Normal
+1
+0.03518%
+A
+AS004MV Section 5
+Reproducibility (R)
+0.21374%
+Normal
+1
+0.2137%
+A
+AS004MV Section 4
+Oven Temperature
+2 °C
+Normal
+2
+1.0 °C
+B
+UB001 Section 5.2
+CRM Bias (CRM002)
+0.0338%
+Normal
+1
+0.0338%
+B
+AS004MV Section 8
+8. Conclusion
+The integrated uncertainty budget demonstrates that:
+All instruments are within tolerance, fit for use, and traceable.
+The combined expanded uncertainty at 95 % confidence satisfies ISO/IEC 17025 Clause 7.6.
+The laboratory maintains a single, structured uncertainty framework suitable for continuous expansion as new equipment is introduced.
+11. Revision
+Revision no
+Content changed
+Reason for revision
+01
+No content changed, but rather an addition
+The procedure is revised to include detailed uncertainty budget tables for Volatile Matter, Inherent Moisture, Ash, and Calorific Value. Each table now explicitly lists both Type A and Type B contributors with their respective data sources

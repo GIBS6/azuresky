@@ -1,0 +1,60 @@
+Table of Contents
+Decision Rules and Statements of Conformity2
+1. Purpose2
+2. Scope2
+3. Responsibilities2
+4. Definitions3
+5. Procedure3
+5.1 General Application3
+5.2 Default Decision Rule (if not specified by client)3
+5.3 Reporting Requirements4
+5.4 When No Statement of Conformity is Requested4
+6. Records4
+7. References5
+Decision Rules and Statements of ConformityThe laboratory normally reports measured results only.Statements of conformity (e.g. “Pass/Fail”, “Meets specification”) are not routinely provided unless explicitly requested by the client or required by a standard or contract.When such a statement is required, the laboratory will apply a documented decision rule that takes into account measurement uncertainty and the associated risk of false acceptance or false rejection, as described in this procedure “Decision Rules and Conformity Statements.”
+1. Purpose
+To describe how the laboratory establishes, applies, and documents decision rules and statements of conformity in compliance with ISO 17025:2017 clauses 7.8.6.1 and 7.8.6.2, ensuring that risks of false acceptance or false rejection are appropriately considered.
+2. Scope
+This procedure applies to all test results where:
+A statement of conformity (e.g., pass/fail, within/outside specification) is requested by the client or required by a specification or standard.
+Measurement results are compared against an agreed acceptance criterion or regulatory limit.
+Where no statement of conformity is requested, only test results will be displayed in reports.
+3. Responsibilities
+Laboratory Manager: Ensures the decision rule procedure is implemented and understood.
+Technical Staff: Applies the approved decision rule during evaluation of results.
+Operations Manager: Verifies that conformity statements in reports meet this procedure and that the decision rule is recorded.
+4. Definitions
+Decision Rule: The rule used to determine whether a test result conforms to a specified requirement, taking into account measurement uncertainty and associated risk.
+Statement of Conformity: A declaration that a result meets or does not meet a specified requirement or limit.
+5. Procedure
+5.1 General Application
+a) When conformity to a specification is required, the laboratory determines and documents the decision rule to be applied before testing.b) The rule considers the level of risk associated with false acceptance (Type I) and false rejection (Type II) decisions.c) The decision rule and basis for risk acceptance are recorded in the contract review record.
+5.2 Default Decision Rule (if not specified by client)
+If no rule is provided by the client or relevant standard, the laboratory applies the following:
+A result is considered to conform if the measured value falls within the specification limit after considering measurement uncertainty (expanded uncertainty, k = 2).
+Formally:
+where x is the measured value and U is the expanded uncertainty.
+If the measured result overlaps the specification limit (e.g., x ± U straddles the limit), the result is reported as “Inconclusive – within the uncertainty range.”
+5.3 Reporting Requirements
+Where a statement of conformity is provided:
+The test report must clearly state:a) The specific result(s) to which the statement applies.b) The specification or standard used as reference.c) The decision rule applied (unless it is clearly inherent in the standard).
+The laboratory includes the measurement uncertainty associated with the result when relevant to conformity assessment.
+5.4 When No Statement of Conformity is Requested
+If the client does not request or the specification does not require conformity statements:
+The laboratory reports only the measured result, without interpretation or compliance indication.
+This satisfies ISO 17025 requirements while avoiding implied conformity judgments.
+6. Records
+Contract review records
+Decision rule documentation (where applicable)
+Test reports with conformity statements
+Training and competency records of staff applying decision rules
+7. References
+ISO/IEC 17025:2017 Clauses 7.8.6.1 & 7.8.6.2
+ILAC-G8:09/2019 — Guidelines on Decision Rules and Statements of Conformity
+Laboratory Uncertainty Budget UB001 Procedure
+8. Revision History
+Version
+Date
+Description of Change
+Approved By
+0

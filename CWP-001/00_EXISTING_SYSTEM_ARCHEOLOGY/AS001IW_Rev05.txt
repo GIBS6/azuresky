@@ -1,0 +1,136 @@
+CONTENTTable of contents
+ 
+      
+             PAGE
+Introduction .....................................................................................................................................2
+Scope ................................................................................................................................................2
+Normative references ………………………………………………...................................................2
+Sample preparation………………………………………………………………………………………2
+Efficiencies……………………………………………………………………………………...2-3 
+General analysis sample preparation.............................................................................3-5
+HGI and AI sample Preparation………………………………………………………………..6
+Total moisture…………………………………………………………………………………….7
+References .......................................................................................................................................8
+Table of revision ...................................................................................................................................8
+INTRODUCTION
+This procedure specifies the requirements for the coal sample preparation procedure of proficiency testing scheme and certified reference material. A single sample is obtained from a coal mine or coal laboratory. Constituents of a sample are increments taken from a lot/stockpile.
+SCOPE
+This procedure describes the preparation of samples of coal from a combination of increments representative of the lot.
+Normative reference
+ISO 13909-4 Hard coal and coke – Mechanical sampling Part 4: Coal preparation of test samples.
+Sample preparation
+Note: Only personnel who are declared competent are to perform laboratory activities. Personnel not declared are to strictly work under supervision of a lab manager/supervisor or competent personnel.
+Efficiencies:
+NOTE: The 25mm and 10mm crusher efficiencies are to be done every Monday, at the beginning of the shift (before any work commences). the 3mm, 4.75mm and pulveriser efficiency will be done on the day it is required for use (before using it).
+How to conduct the efficiencies:
+NOTE: The crusher efficiency is conducted in the same way for all crushers, the differences lie in the masses and screens to be used. For 25 mm, use sample mass of 15 kg, for 10 mm use sample mass of 10 kg, and for 4.75/3 mm use sample mass of 5 kg. The screen size used is the same as the crusher whose efficiency is conducted at the time. Use 1kg for pulveriser efficiency, and a screen of 212 µm.
+Ensure that the balance verification has been done.
+Weigh out the required mass (as stipulated above).
+Crush the entire sample and weigh the mass of crushed sample.
+Next, screen the sample. There should be some oversize (sample not passing through) and undersize (sample passing through).
+Use the form AS012TF for crushers, and AS002TF for pulveriser.
+Use the following formulas to calculate for the % dust loss and % efficiency.
+Acceptance criteria: 
+Crusher: Dust loss < 10%, and Efficiency ≥ 90%
+Pulveriser: Dust loss < 5%, and Efficiency ≥ 95%
+ General Analysis:
+Request coal sample ±200 kg from a mine or coal laboratory.
+Record the details of the sample onto the receiving book.
+Weigh and Air dry the sample until it is visibly dry.
+Cone and Quarter the sample, combine two opposites to continue the process with, and package the two remaining opposites.
+Rationale: While cone and quartering has its limitations in terms of homogeneity across the quarters, the core principle is not for the chosen opposites and the packaged sample to have any relationship, but it is for the operators to have a workable sample to continue the process with, since working with the entire sample would be impractical given that we do not reduce at each crushing stage. Through the homogeneity studies conducted, the homogeneity drum proves to be effective in homogenizing the entire sample, thereby eliminating any doubt that may arise from cone and quartering. A sample will only be considered a secondary batch to an already established CRM after it has independently gone through PT, and its statistical analysis concludes that each parameter is reproducible to an established CRM. This eliminates any link that may arise on the packaged samples with the initially processed sample.
+Crush the entire sample in the 25mm crusher.
+Crush the entire sample in the 10mm crusher.
+Next, crush the entire sample in the 3mm crusher.
+Air-dry the sample in an oven ≤ 40 °C for ≤4 hours.
+Pulverize the entire sample.
+Transfer the sample into the 210L drum, strap the drum onto the mixer and homogenize for 4 hours.
+Finally, take increments of ±600g in a pan. Use the flat heap method to take portions from 600g and transfer into ~100g bottles for packaging.
+In the process take 10 random samples which will be used for homogeneity check and validation of GA parameters. 
+Take about 50 samples for PT and label them. The rest of the samples shall be used as CRMs, and they too should be labelled.
+Indicative Ash
+If there are multiple samples of unknown grades, start by collecting small portions (<5kg) from each of the individual samples for ash indicative analysis. Stage crush to 3mm, pulverize, and take to the lab. Upon receiving results, the samples shall be grouped according to the following ranges: 
+10-15 (%) ash
+16-20 (%) ash
+21-24 (%) ash
+25-28 (%) ash
+29-32 (%) ash
+33-36 (%) ash
+37-40 (%) ash
+NB: Discard any samples with an ash >40%.
+For samples that come from one stockpile, there is no need to perform an indicative analysis, proceed to crushing after drying.
+Packaging
+The development of Certified Reference Materials (CRMs) follows a systematic process analogous to that employed in the preparation and conduct of proficiency testing (PT) schemes. The assignment of certified reference values is derived from statistically evaluated consensus means obtained through PT data analysis and validated measurement results.
+Packaging of CRMs shall only commence once validation of all analytical parameters has been successfully completed and approved. Reference materials are dispensed from the homogenized bulk (homogeneity drum) into sealed, tamper-evident containers under controlled conditions to prevent contamination or material alteration.
+ Each CRM unit shall be individually labelled immediately during packaging in accordance with the requirements of ISO 17034, clause 7.14 (this includes the 10 samples taken at random for testing), ensuring unique identification, traceability to the CRM batch, and clear reference to the relevant property values, intended use, and storage conditions.
+Packaging shall not proceed, nor shall CRM units be released for storage, unless CRM identification labels are available and applied. In the event that permanent CRM labels are unavailable at the time of packaging, packaging activities shall be placed on hold, or the CRM units shall be clearly identified using an approved temporary identification system and quarantined from routine storage until permanent labels are applied. The use of temporary identification and subsequent labelling shall be documented and verified prior to release.
+Only fully labelled, sealed, and verified CRM units are authorized for placement in the designated CRM storage facility. A verification step shall be performed to confirm correct labelling and batch allocation prior to storage and prior to any removal of CRM units for homogeneity testing or stability monitoring.
+The designated CRM storage area shall be temperature-controlled between 16 °C and 20 °C and equipped with humidity monitoring devices. Environmental conditions shall be recorded twice weekly (every Monday and Friday), with visual checks performed throughout the week to ensure continued compliance with defined limits. All temperature and humidity monitoring records shall be documented, retained, and reviewed as part of the quality assurance system.Top of FormBottom of Form
+Note: These 10 bottles shall be kept in storage under the same conditions as the CRMs, they will be used to monitor stability of the samples.
+It is also worth noting that the top nominal size of all samples received by the lab shall not be >50mm.
+NOTE: Ensure all equipment and materials used are verified against factory specifications and logged in the equipment register prior to use. Calibrations (where necessary) and verification of equipment are to be attended prior to use. Calibration services shall only be sourced from ISO/IEC 17025 accredited labs. Verification certificates from manufacturers are accepted for new equipment provided to address traceability. (ISO 17025; Clause 6.4.)
+For Hardgrove and Abrasive index (Eskom Method).
+A minimum mass of 300 kg is required.
+Air dry the entire sample, until visibly dry.
+Cone and quarter the entire sample, take two opposites for PT and then cone and quarter the other two opposites. From this take two opposites and add to the first two PT opposites. Approximately 225 kg and 75 kg should be obtained for AI and HGI, respectively.
+Prepare each of the two parameters separately from this point onwards.
+Crush the sample at 25mm, 10mm, and 4.75mm in that order (i.e. stage crush).
+Homogenise the sample for 2 hours in a mixing-drum. (Generates a lot of fines which is not ideal for HGI and AI analysis). 
+Use cone-and-quartering to reduce the mass of the sample and transfer into the 210L drum ensuring that sample does not cover more than 75% of the area of the drum. Homogenise for 30 minutes.
+Use the -1.0 mm sieve to screen the entire sample (removal of fines). Take the oversize and transfer it into a container (where necessary).
+Use the 4.75 mm and 3 mm test sieves to screen the sample. Take the sample 
+3 mm < sample < 4.75 and proceed to the next step.
+For HGI: Weigh 1.0 kg and transfer into a 1L bucket for packaging. Take all the material and keep it in the storage room. Some of the samples will be sent out for packaging while the rest will be stored as CRM.
+For AI: Weigh ±9.5 kg and transfer into a 10L bucket for packaging. Send all the samples to the storage room. The required number will be distributed to participants while the rest is kept as CRM.
+For Total Moisture (semi-prep).
+Obtain a representative sample as per ISO 13909 (<150kg).
+Avoid exposure to air and moisture loss/gain.
+Record the sample in the receiving book.
+Weigh the initial mass.
+Air-dry the sample on the floor, until visibly dry.
+Weigh back the sample.
+Calculate the surface moisture by using the following formula (only if LIMS is offline):
+SM =   
+Crush the sample in the 25mm and 10mm crushers.
+Mix the sample thoroughly to ensure homogeneity.
+Use cone and quartering to divide into test portions
+Crush the sample into the 3mm crusher.
+Quickly weigh 1kg and dry at 105-110 oC oven.
+Dry the sample for 3 hours.
+RM =   
+For PT samples, after reducing them to -3mm weigh ~ 2kg and transfer into 2L buckets. Tightly close the container and attach label. Send to storage room.
+NOTE: The drying depends on the sample size and mass, moisture content in sample and air circulation in the oven.
+REQUIREMENT: The sample should be dried to constant mass (i.e. two successive weighings must be <0.2%, of the sample mass or less than 0.1 g, whichever is greater).
+Repeatability limit <0.5 %
+Reproducibility limit <1.5%
+Perform Homogeneity Test for HGI, AI, and TM using ash analysis. Take 10 random samples. If the samples do not meet the acceptance criteria, reject the batch and open an IRQ.
+Reference
+ISO 13909-4
+ISO 589
+Eskom Method
+Revision table
+Revision no
+Content changed
+Reason for revision
+Date changed
+01
+Homogenise the sample for HGI and AI samples for 2 hours
+This step leads to the generation of a lot of fines.
+08/08/2025
+02
+3. Air dry the sample until it is visibly dry
+4.Crush the entire sample in the 25mm crusher.
+It was noted to be difficult and impractical to work with a ±200 Kg sample at the same throughout the entire process.
+13/10/2025
+03
+Not a change but rather an update to include mandatory control points during packaging.
+Addition of hold and release points when CRM ID stickers are unavailable and/or interim controls to be implemented. The change was necessary in order to prevent misassignment of CRMs.
+06/01/2026
+04
+Update the procedure to include the need to do the 4.75mm crusher efficiency
+Since there is only one crusher used for both 3mm and 4.75mm- The crusher efficiency will be done just before use.
+16/01/2026
+05
+Add section that explains how efficiencies are conducted
+There was no documented protocol as to how efficiencies should be done
+21/09/2026

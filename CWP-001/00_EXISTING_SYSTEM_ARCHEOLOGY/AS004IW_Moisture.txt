@@ -1,0 +1,149 @@
+INDEX
+
+  ContentsPage
+
+ 1Introduction ……………………………………………………………………………2
+
+ 2Scope           ……………………………………………………………………….2
+
+ 3Principle     ……………………………………….………….……………………2
+
+ 4Apparatus…………………….……………………………………………………3
+
+ 5Preparation of sample ………………………………………………………….3
+
+ 6Procedure    ………………………………………………………………….3-4
+
+ 7Results expression and calculations ……………………………………………4
+
+ 8        References   ………………………………………………………………………………4
+
+ 9Revision table ……………………………………………………………………………...5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+
+Coal is a porous substance with hygroscopic property. This means that it can readily absorb or dispel moisture from the air or its surroundings until it attains equilibriums.
+
+The quantity of water contained within the coal is dependent on the extent of porosity. Lower ranked coal tends to have higher porosity, and the pore structure changes with the progress of coalification. Coal can also become more porous when it undergoes oxidation, not only that, but oxidation also affects the calorific value, coking properties, and the coal’s reactivity during combustion.
+       
+     A controlled laboratory environment is necessary when dealing with coal. This is because
+      things like humidity and moisture greatly influence how coal behaves. To ensure                                                                 
+     comparability of results, the humidity and temperature of the lab must ever be controlled.
+
+      Another important aspect of inherent moisture is that it allows the conversion between air-
+      dry and dry-base, and the correction of volatile matter.
+
+
+Scope
+The scope of this type of analysis is to calculate the part of the Inherent moisture percentage that is retained by the - 212μm sample of coal after it has been exposed to the laboratory atmosphere (temperature and humidity) and has attained approximate equilibrium with it.
+
+Principle
+Test portion of coal samples is heated in a drying oven 105-110 oC and maintained at this temperature until a constant mass is achieved. The percentage of moisture content can thus be obtained after drying.
+
+Note: ONLY Personnel who are declared competent are to perfrom laboratory activities. personnel not declared are to strictly work under supervision of a lab manager/supervisor or competent personnel.
+
+
+
+
+
+Apparatus
+
+4.1. Oven – An air-oven with a temperature within the range 105°C to 110°C. 
+4.2.  Balance - having a sensitivity of 0,1 mg 
+4.3. Weighing vessels – A shallow cylindrical vessel of diameter at least 30mm and having a well-fitting cover, the vessel and cover shall be of glass or of a non-corrodible and heat-resistant material (Number the weighing vessels for identification purpose) 
+4.4.  Desiccator – Containing fresh or freshly regenerated self-indicating silica gel. 
+4.5. Pair of tongs – to be used for inserting into and removal of samples from the oven.
+4.6. Metal cooling plate
+
+Preparation of sample
+
+The sample shall be prepared as per the AS001WI procedure and conditioned as per AS002WI. Ensure that the sample is -212 µm and mix well to homogenise before conditioning it.
+
+Note: Ensure all equipment and materials used are verified against factory specifications and logged in the equipment register prior to use. Calibrations (where necessary) and verification of equipment are to be attended prior to use. Calibration services shall only be sourced from ISO/IEC 17025 accredited labs. Verification certificates from manufacturers are accepted for new equipment provided to address traceability.(ISO 17025; Clause 6.4.)
+
+
+Procedure
+
+
+Thoroughly mix the conditioned sample for about 60 seconds.
+
+Enter the weighing vessel number (4.3. above) into the LIMS and press “enter” on the computer.
+
+ Place the numbered weighing vessel (4.3 above) with its lid, at the center on the weighing platform of the calibrated and verified balance and close the doors of the balance chamber. 
+
+Wait approximately 30 seconds or until the balance has stabilised and record the mass (m1) by pressing the space bar of the computer to enter the mass into LIMS.
+
+Uniformly spread about 1g±0.05g of the conditioned, thoroughly mixed sample (4.1above) into the weighing vessel. 
+ Close the balance weighing chamber doors to allow the balance to stabilise and record the mass (m2) by pressing the space bar of the computer to enter the mass into LIMS.
+ Remove the lid and place them in the desiccator and heat the uncovered vessels in the moisture oven maintaining a temperature of 105° to 110°C (4.1 above) for 2½hours. 
+After a period of 2½ hours, remove the weighing vessel from the oven, replace the lid and allow cooling on a metal plate on the work bench top for 10 minutes then transfer the weighing vessel into a desiccator for a further period of 10 minutes and weigh (m3).
+ Enter the masses into LIMS corresponding to the numbered weighing vessel as originally been entered by pressing the space bar of the computer. 
+
+NOTE: Samples must be placed in the oven quickly to avoid long exposure to the air as this could cause the sample to reabsorb moisture from the atmosphere. Ensure that the temperature of 105°C to 110°C is maintained for 2½ hours.
+
+ 
+Result expression and calculations
+
+M1= Mass of empty crucible
+M2= mass of samples
+M3= Mass of crucible+sample
+
+%Inherent Moisture =    
+
+All results are reported are in an air-dry basis
+
+Repeatability criteria:  
+IM content ≤ 5% RL of 0.10%
+IM content >5% RL of 0.15%
+
+References
+ISO 5925:2007 (edition 2
+
+
+
+Revision Table
+Rev number
+Date
+Reason for revision
+01
+October 2025 
+The results from the 2 and half hours proved to be more stable and consistent as proven through the stability monitoring evaluation tools (see stability monitoring).
+02
+April 2026
+The procedure stated(clause 6.5) that personnel should spread 1g ± 0.0010g of the conditioned sample. It has been updated to say, “uniformly spread about 1g ± 0.05g of conditioned sampled….”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,107 @@
+1. Purpose
+To define the systematic approach used by the laboratory to monitor the validity of test results and ensure continuing accuracy, reliability, and traceability in compliance with ISO/IEC 17025:2017, Clause 7.7. 
+2. Scope
+This procedure applies to all analytical preparation and determinations performed by the laboratory, including Preparation & Proximate Analysis (Moisture, Ash, Volatile Matter, and Fixed Carbon) and Calorific Value (CV) testing, as well as to all instruments and reference materials associated with these determinations.
+3. Responsibilities
+Role
+Responsibilities
+Laboratory Manager / Supervisor
+Approves the monitoring programme, reviews trends, and authorizes corrective actions. Ensure adherence to monitoring frequency, maintain QC logs, verify control chart performance, and review duplicates and CRMs.
+Laboratory Technician
+Perform verification checks, run duplicates and CRMs, record results accurately, and initiate investigation for out-of-control data.
+Operations Manager
+Reviews all records for completeness and trends, ensures calibration certificates are current, and reports performance in management review.
+4. Definitions
+CRM: Certified Reference Material — a material with a certified analyte value and associated uncertainty.
+Control Chart: Graphical tool used to monitor performance trends and detect bias or drift.
+Repeatability Limit: Maximum allowable difference between duplicate results under the same conditions.
+Verification: Confirmation that an instrument performs within defined limits before use.
+5. Monitoring Methods
+5.1 Instrument Calibration and Verification
+Instruments that require calibration — Ash Furnace, Volatile Furnace, Moisture Oven, Drying Oven, Analytical Balances, and Mass Pieces — are sent to SANAS-accredited calibration facilities to ensure traceability to national standards.
+Calibration certificates are reviewed upon receipt and retained in the instrument calibration file.
+Verification prior to use:
+Analysts perform daily or batch verification checks (e.g., temperature control and recording, balance verification, equipment efficiency) before starting work. 
+Any deviations beyond control limits are reported to the Laboratory Manager/supervisor before testing proceeds.
+CV instrument (Calorimeter) is calibrated in-house using a Certified Benzoic Acid pill of known calorific value. Calibration results are documented and plotted on a control chart to assess stability.
+5.2 Analytical Quality Control
+Duplicate Analyses:
+Each sample run includes at least one duplicate test sample to evaluate precision.
+Duplicates must meet the following repeatability limits:
+Parameter
+Repeatability Limit
+Calorific Value (CV)
+≤ 0.12 MJ/kg
+Ash (≤ 10 %)
+≤ 0.2 % abs
+Ash (> 10 %)
+≤ 2 % of mean
+Volatile (≤ 10 %)
+≤ 0.3 % abs
+Volatile (> 10 %)
+≤ 3 % of mean
+Inherent Moisture (≤ 5 %)
+≤ 0.1 % abs
+Inherent Moisture (> 5 %)
+≤ 0.15 % abs
+Results exceeding limits must be re-run, if it still is out of repeatability limit, run a CRM. If problem persists, do a quick verification/maintenance on instrument. Conduct an investigation if there is any drift found on verification/maintenance.
+Certified Reference Material (CRM):
+A CRM is analysed after every 10 routine runs for each parameter.
+The measured value is compared with the certified value; deviations beyond control limits (reproducibility) are investigated.
+Control Charts:
+Control charts are maintained for each parameter using CRM and duplicate data.
+Each new result is plotted and reviewed to detect bias, drift, or loss of precision.
+Out-of-control points (beyond Reproducibility limits) or systematic trends require immediate suspension of affected runs until resolution.
+5.3 Method Validation and Ongoing Verification
+All methods are validated before routine use to confirm accuracy, precision, linearity, and detection limits.
+Periodic re-validation is performed after any significant change (New equipment).
+Analysts verify method performance using QC data trends and inter-analyst comparisons.
+5.4 Proficiency Testing and Interlaboratory Comparison
+The laboratory participates in proficiency testing (PT) for each accredited parameter.
+PT performance is evaluated using z-scores and included in management review.
+If no PT is available, inter-laboratory comparisons are conducted
+5.5 Trending and Review
+All QC data (duplicates, CRMs, calibrations, PT results) are trended per control chart.
+The Laboratory Manager and Laboratory Supervisor jointly review control charts.
+Any observed bias, drift, or degradation of performance triggers a formal Investigation.
+Persistent trends may result in method re-validation, recalibration, or staff retraining.
+6. Corrective Action Procedure
+Stop analysis of samples for affected parameter or batch.
+Re-verify instrument verification, calibrate where necessary and perform impact analysis on affected batches.
+Document root cause, corrective and preventive action in the Nonconformance Register.
+Confirm restored control with CRM or duplicate results before resuming routine testing.
+7. Records and Documentation
+The following records are retained electronically or in bound QC logbooks:
+Record
+Retention Period
+Responsibility
+Calibration Certificates
+5 years
+Operations Manager
+Daily Verification Logs
+3 years
+Analyst
+CRM Results & Control Charts
+5 years
+Supervisor
+Duplicate Test Records
+3 years
+Analyst
+PT/Inter-lab Results
+5 years
+Operations Manager
+IRQs and Corrective Actions
+5 years
+Quality Manager
+8. Review
+This procedure shall be reviewed annually during management review meetings.
+9. References
+ISO/IEC 17025:2017 — Clauses 7.6, 7.7, 7.8
+ILAC G8:09/2019 — Guidelines on decision rules and reporting
+ASTM D3173, D3174, D3175, D5865 — Coal analysis standards
+Laboratory QMS Manual, Section 7 — Quality Control and Validation
+10. Revision
+Revision no
+Content changed
+Reason for revision
+Date changed

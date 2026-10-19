@@ -1,0 +1,69 @@
+MEMORANDUM: VALIDATION OF METHODS (ISO/IEC 17025:2017 – CLAUSE 7.2.2)
+To: Laboratory Management and Technical Personnel
+From: Laboratory Manager/Supervisor
+Date: 20/10/2025
+Subject: Implementation of ISO/IEC 17025:2017 Clause 7.2.2 – Validation of Methods
+The Crux/Nucleus of Method Validation Relies Upon the Following Points
+ Understanding the performance characteristics of methods (range, accuracy, precision, etc.).
+Ensuring that all methods have been validated and verified against expected sample types.
+Confirming that all validated methods meet both customer and method specifications.
+1. PURPOSE
+The purpose of this memorandum is to describe how the laboratory complies with the requirements of ISO/IEC 17025:2017 Clause 7.2.2 (Validation of Methods) and SANAS TR-26, demonstrating that all analytical methods used by the laboratory are validated, fit for their intended use, and consistent with customer and specified requirements. This memorandum covers sub-clauses 7.2.2.1 to 7.2.2.4 and outlines the validation process, control of method changes, assessment of performance characteristics, and record retention.
+2. SCOPE
+This applies to all test methods used in the coal laboratory, including:
+Proximate Analysis: Determination of Moisture, Ash, Volatile Matter, and Fixed Carbon.
+ Calorific Value (CV): Determination of gross and net calorific value.The validation principles also apply to any new, modified, or customer-specific analytical procedures used in coal characterization.
+3.1 Clause 7.2.2.1 – Validation of Methods
+Standard Note: Validate non-standard methods, laboratory-developed methods, and standard methods used outside their intended scope or otherwise modified. The validation must be as extensive as necessary to meet the needs of the given application or field of application.
+Laboratory Implementation:
+The laboratory primarily employs internationally recognised standard methods such as ISO 13909, ISO 1171, ISO 562, SANS 5925, and ISO 1928.
+These standard methods are generally applied within their defined scope
+Where procedural adjustments are necessary, verification studies confirm acceptable performance.
+A formal validation plan defines objectives, performance parameters, acceptance criteria, and responsibilities.
+Validation activities are reviewed and approved by the Operations Manager.
+Objective Evidence:
+Method validation reports
+Validation plans
+Method SOPs
+Instrument qualification certificates
+3.2 Clause 7.2.2.2 – Changes to Validated Methods
+Requirement: When changes are made to a validated method, the influence of such changes shall be determined, and where they are found to affect the original validation, a new method validation shall be performed.
+Laboratory Implementation:
+A formal change control process governs all method modifications. This includes revalidation of changes (i.e. introduction of new instruments) employed within a certain method.
+Any change triggers an impact assessment by the Technical Signatory.
+If performance may be affected, partial or full revalidation is performed.
+Revised methods are documented and controlled through the document management system.
+Objective Evidence:
+Revalidation reports
+Updated SOPs
+Method revision log
+3.3 Clause 7.2.2.3 – Performance Characteristics and Customer Relevance
+Standard Note: Performance characteristics of validated methods, as assessed for the intended use, shall be relevant to customers’ needs and consistent with specified requirements.
+Laboratory Implementation:
+Validation includes assessment of accuracy, bias, precision, range, and robustness.
+Proximate Analysis methods are empirical and suitable for all coal ranks.
+CV method validated using CRM (~24 MJ/kg), with capability between 4–30 MJ/kg.
+99% of customer samples lie between 15–25 MJ/kg, within the validated range.
+Performance characteristics confirm that methods are fit for use and meet customer specifications.
+Objective Evidence:
+Validation reports
+CRM certificates
+Control charts and QC data
+Customer sample logs
+3.4 Clause 7.2.2.4 – Records of Validation
+Requirement: The laboratory shall retain the following records of validation:a) Validation procedure used;b) Specification of the requirements;c) Determination of performance characteristics;d) Results obtained;e) Statement on the validity of the method and its fitness for use.
+Laboratory Implementation:
+All validation records are maintained in the method validation folder within the management system.
+Documentation includes procedures, requirements, results, and signed statements of fitness.
+Records are controlled, traceable, and retained for at least five years.
+Objective Evidence:
+Validation record files
+Raw data and reports
+Signed validation summaries
+Document control logs
+4. CONCLUSION
+The laboratory has implemented a comprehensive and controlled method validation system that fulfills all requirements of ISO/IEC 17025:2017 Clause 7.2.2 (Subclauses 7.2.2.1–7.2.2.4). All validation activities are documented, reviewed, and approved by competent personnel. Performance characteristics are relevant to customer needs and consistent with specified requirements, ensuring reliability, accuracy, and traceability of analytical results. Statement of fitness for intended use has been defined in each method validation conclusion.
+5. REFERENCES
+ISO/IEC 17025:2017 – General Requirements for the Competence of Testing and Calibration Laboratories
+SANAS TR-26 – Criteria for Validation of Methods used by Chemical Laboratories in the Coal, Oil, Petroleum, Metals and Minerals, Food, Pharmaceutical, Water and Related Industries
+Laboratory SOPs for Proximate Analysis and Calorific Value

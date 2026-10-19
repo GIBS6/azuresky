@@ -1,0 +1,38 @@
+Sampling Procedure for Coal(In Accordance with ISO 18283:2006)
+1. Purpose
+This procedure describes how representative samples of coal are to be obtained, reduced, and preserved for the preparation of reference materials (RMs/CRMs) or proficiency testing (PT) items. The procedure ensures that coal samples are collected in line with ISO 18283 and meet the requirements of ISO 17034 and ISO Guide 35.
+2. Scope
+This procedure applies to all coal consignments (e.g., bituminous, sub-bituminous, anthracite, lignite) sampled by the RMP for CRM production or PT schemes. It covers primary sampling, gross sample formation, sub-sampling, and reduction up to the stage where test or reference portions are obtained.
+3. References
+ISO 18283:2006 – Hard coal and coke — Manual sampling
+ISO Guide 35 – Reference materials — General and statistical principles
+ISO 17034 – General requirements for the competence of reference material producers
+ISO/IEC 17043 – Proficiency testing — General requirements
+4. Responsibilities
+Sampler: Executes the sampling strictly according to this SOP.
+Operations Manager and/or Laboratory Supervisor: Ensures the adequacy of sampling plans and equipment.
+Laboratory Manager: Confirms that sampling records and chain custody are complete and traceable.
+5. Definitions
+Increment: A quantity of coal collected at one point from the lot.
+Gross Sample: The aggregate of all increments from the lot.
+Sub-sample: A reduced, representative portion of the gross sample.
+Test/Reference Portion: The final portion prepared for analysis or CRM production.
+6. Equipment
+Manual shovel or scoop (flat-edged, clean, non-contaminating material)
+Sample containers: moisture-tight, dustproof, clearly labelable
+Riffle splitter or rotary divider for sample reduction (cone and quartering)
+Calibrated balance
+Moisture-proof storage bags 
+7. Procedure
+7.1 Sampling Plan
+Define lot size (e.g., 1,000 tons of coal).
+Determine number of increments according to ISO 18283:
+Minimum of 35 increments for lots >100 tons.
+For smaller lots, increments should be sufficient to cover the full particle size distribution.
+Document plan in the Sampling Record Form.7.2 Collection of Increments-Take increments from the moving stream (preferred) or a static pile (if unavoidable).- Each increment shall be at least 3 times the nominal top size (NTS) of the coal particles.- Collect increments at evenly distributed time/space intervals to ensure representativity.- Avoid bias (e.g., do not select only fine or coarse material).7.3 Formation of Gross Sample- Combine all increments into a single gross sample.- Mix thoroughly to minimize segregation.- Weigh and record the total mass of the gross sample.7.4 Sample Reduction- Reduce the gross sample to a manageable size using riffle splitters or rotary dividers (never by coning and quartering unless validated).- Continue reduction until the sub-sample is:  * Large enough for homogeneity and stability testing  * Suitable for CRM production or PT distribution- Record reduction steps, including masses before and after each reduction.7.5 Sample Handling & Preservation- Transfer sub-samples into clean, moisture-tight containers.- Label each container with:  * Sample ID  * Date- Store samples in a cool, dry environment to prevent moisture loss and oxidation.
+8. Quality Control
+- Collect duplicate gross samples for reproducibility checks.- Retain a reference sample (archive) for traceability.- Record ambient conditions (temperature, humidity) at the time of sampling.- Verify homogeneity of reduced samples by testing subsamples.
+9. Safety
+- Wear PPE (dust mask/respirator, gloves, goggles, safety boots).- Minimize exposure to coal dust; use dust suppression where possible.- Follow site safety rules for working near stockpiles and conveyors.
+10. Records
+- Sampling Record Form (lot details, increment plan, sampler signature).- Gross and reduced sample weights.- Chain-of-custody forms.- QC check records.- Equipment calibration logs.

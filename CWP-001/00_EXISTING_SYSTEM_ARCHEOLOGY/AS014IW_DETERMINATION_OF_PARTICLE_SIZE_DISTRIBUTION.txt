@@ -1,0 +1,48 @@
+Table of Contents
+Scope:2
+1. Sample Preparation & Sub-Sampling2
+2. Preliminary Separation (Scalping2
+4. Analysis of the Fine Fraction (-22.4 mm to Receiver)3
+5. Calculations and Data Validation3
+5.2. Mass Loss Correction (Sanity Check)4
+6. Quality Control & Precision4
+Scope: Determination of particle size distribution of coal using sieves.
+Reference Standard: ISO 1953
+1. Sample Preparation & Sub-Sampling
+Initial Splitting: After receiving the bulk sample in the receiving book, immediately split the sample using the cone & quarter method to extract the sample to be used for PSD. Provided that the primary sample mass is sufficient, a single representative quarter may be taken instead of the two opposite method, provided the quarter meets the minimum mass of 65 Kg.  
+Technical Adjustment: If a single quarter does not meet the 65 kg threshold, take the two opposite quarters to ensure sufficient mass for statistical representation of the top-size particles.
+Drying: Air-dry the sample on a clean surface until it is visibly dry. Coal must be free flowing to prevent "blinding" (clogging) of the finer apertures.
+2. Preliminary Separation (Scalping)
+Use a 22.4 mm sieve to separate the sample into two manageable portions:
+Coarse Fraction: Particles > 22.4 mm.
+Fine Fraction: Particles < 22.4 mm.
+Purpose: The technique to treat the two fractions is essentially different and larger particles require rougher manual/mechanical agitation that would damage the delicate mesh of the smaller sieves.
+3. Analysis of the Coarse Fraction (+22.4 mm to 50 mm)
+Stacking: Stack the coarse sieves in descending order (largest aperture at the top, receiver at the bottom.
+Sieving Motion: Load the coal onto the top screen. With a partner positioned opposite you, perform a sieving 360° revolution divided into four segments.
+Agitation: Screen the material 8 times back and forth within each segment.
+Weighing: Remove the top screen after each successful revolution cycle.
+Option A: Weigh the fractions directly into LIMS after each revolution.
+Option B: Transfer fractions to different marked containers and weigh all of them at once at the end.
+NOTE: Make sure that only 75% of the screen is loaded with the sample at all times. Loading less creates more space in the sieve for the particles to easily break during agitation. Loading more does not give the particles enough room to move around the sieve.
+4. Analysis of the Fine Fraction (-22.4 mm to Receiver)
+Stacking: Stack the finer sieves with a receiver at the bottom and a lid or a plastic big enough to cover the entire sieve at the top.
+Dust Control: The lid or plastic is mandatory to prevent the loss of "fines," which would invalidate the mass balance.
+Sieving Duration: Sieve the sample for a duration of 2 minutes, leave the sample for 45 seconds to a minute before removing the lid and taking the top sieve to let the dust settle in between the sieves.
+Settling Time: After shaking, wait 45 seconds to a minute before removing the lid. This allows airborne dust to settle into the fraction, ensuring safety and mass accuracy.
+5. Calculations and Data Validation
+5.1. Percentage Calculation
+The percentage of coal retained on each sieve (P) is calculated as:
+Where mi is the mass on the specific screen, and Mtotal is the sum of all recovered masses.
+5.2. Mass Loss Correction (Sanity Check)
+The difference between the Initial Dried Mass (M_initial) and the Sum of Recovered Fractions m_i must be accounted for and added to the fines mass.
+Requirement: The total recovery must be between 99.9% and 100.1%.
+Correction: Any loss must be added to the fines mass, as dust loss is the most likely source of error.
+Corrected Fines = m on receiver(fines) + m_initial – total mass after sieving
+6. Quality Control & Precision
+Repeatability: Under ideal conditions, the precision for manual sieving as per ISO 1953 is approximately 2% (absolute) for major fractions.
+Overloading: Ensure no sieve is overloaded. If particles are stacked more than 75% on a screen, the sieving will not be accurately analysed.
+Revision Table
+Rev number
+Date
+Reason for revision

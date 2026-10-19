@@ -1,0 +1,67 @@
+Metrological Traceability Memorandum
+Azuresky (Pty) Ltd – Testing Laboratory and Reference Material Producer (RMP)
+Scope: Proximate analysis of coal (moisture, ash, volatile matter) and calorific value determination
+1. Introduction and Purpose
+Azuresky (Pty) Ltd is a testing laboratory specializing in coal characterization through proximate and calorific value analysis. The laboratory also operates as a Reference Material Producer (RMP), producing its own Certified Reference Materials (CRMs) to support the reliability and traceability of in-house testing.This memorandum describes how Azuresky establishes and maintains metrological traceability of its measurement results in compliance with ISO/IEC 17025:2017 (Clause 6.5), supported by the relevant requirements of ISO 17034:2016 (for CRM production) and ISO 17043:2023 (for proficiency testing).Metrological traceability ensures that all reported measurement results are linked, through a documented and unbroken chain of calibrations, to the International System of Units (SI) or, where SI traceability is not technically possible, to an appropriate and technically valid reference.
+2. Laboratory Scope and Applicable Standards
+Azuresky’s analytical operations are performed in accordance with the following international and national standards:
+Test
+Standard Reference
+Parameter Determined
+Analytical Basis
+Determination of total moisture in coal
+ISO 589
+Total moisture (as-received basis)
+Gravimetric
+Determination of inherent moisture in coal
+SANS 5925
+Inherent moisture (dry basis)
+Gravimetric
+Determination of ash content in coal
+ISO 1171
+Ash content (standard ash)
+Gravimetric
+Determination of volatile matter in coal
+ISO 562
+Volatile matter
+Gravimetric
+Determination of gross calorific value
+ISO 1928
+Calorific value (MJ/kg)
+Bomb calorimetry
+3. Traceability Chain Overview
+Azuresky maintains an unbroken, documented traceability chain linking every test result to an appropriate reference:SI Units (mass, temperature, time, energy)↓National Standards (SANAS-recognized metrology institutes)↓Micron Calibration Laboratory – ISO 17025-accredited provider responsible for calibration of balances, furnaces, thermometers, and mass standards↓Azuresky Laboratory Equipment – used in analytical testing and CRM characterization↓Azuresky Internal Certified Reference Materials – produced under ISO 17034 principles, with assigned values traceable to SI through calibrated instrumentation↓Test Results – reported with established measurement uncertainty
+4. Calibration and Equipment Traceability
+All critical measuring equipment is calibrated by Micron Calibration Laboratory, an ISO 17025-accredited facility.Calibration certificates issued by Micron provide:
+Clear traceability to SI units through national or international standards.
+Measurement uncertainty with stated coverage factor (k).
+Identification of calibration methods and environmental conditions.Azuresky maintains a Calibration Register that records calibration intervals, certificate numbers, and traceability information. No analytical instrument is used outside its calibration validity period.
+5. Certified Reference Materials (CRMs)
+Azuresky produces and certifies its own CRMs to ensure internal traceability and measurement reliability. All CRMs are developed and maintained in accordance with ISO 17034:2016 requirements and follow a documented production, characterization, and certification process that includes:
+Characterization and value assignment using Azuresky’s own validated methods (ISO 589, SANS 5925, ISO 1171, ISO 562, ISO 1928) and calibrated instrumentation.
+Homogeneity and stability testing conducted internally in accordance with ISO 17034 Clauses 7.12–7.13.
+Traceability to SI units established through the calibration chain of equipment used in characterization and testing.
+Uncertainty estimation based on method validation and statistical evaluation of replicate results.Each CRM is accompanied by a Certificate of Analysis (CoA) that includes the assigned value, expanded uncertainty, traceability statement, and shelf-life or validity period. The assigned values are determined solely by Azuresky, not derived from Coal Concepts PT data.The laboratory uses external PT participation (see Section 6) as a verification mechanism, not as a value-assignment source.
+6. Proficiency Testing (PT) and Interlaboratory Comparability
+Azuresky participates quarterly in proficiency testing (PT) schemes organized by Coal Concepts, a SANAS-accredited PT provider operating under ISO 17043:2023.
+Participation in these schemes serves to:
+Verify the accuracy and comparability of Azuresky’s measurement results relative to other competent ISO 17025-accredited laboratories.
+Demonstrate continued technical competence of analytical staff and validity of measurement procedures.
+Support CRM verification by confirming that Azuresky’s internally assigned values are consistent with industry consensus, without directly influencing the certified values.PT results are analyzed statistically to ensure reproducibility and consistency, thereby reinforcing confidence in Azuresky’s traceability system and internal quality assurance framework.
+7. Measurement Uncertainty and Traceability Integration
+Measurement uncertainty is established for each parameter (moisture, ash, volatile matter, calorific value) through detailed uncertainty budgets compiled during method validation.Each source of uncertainty, calibration, reference material characterization, analytical repeatability, environmental stability, is quantified and combined according to the Guide to the Expression of Uncertainty in Measurement (GUM).The traceability chain contributes to these uncertainty budgets, ensuring that every uncertainty source can be linked back to an appropriate standard or reference. All data are recorded in the Azuresky Method Validation and Uncertainty Register, in line with ISO/IEC 17025:2017 Clause 7.6.2.
+8. When Direct SI Traceability Is Not Technically Possible
+For some coal analysis parameters, particularly those influenced by matrix-dependent properties, direct realization of SI traceability is technically limited. In such cases, Azuresky ensures traceability to an appropriate reference through the following approaches:a) Use of internally produced CRMs, certified under ISO 17034 principles, with values assigned through validated procedures and traceable instrumentation.b) Implementation of standardized and consensus methods (ISO 589, SANS 5925, ISO 1171, ISO 562, ISO 1928) recognized internationally for generating results fit for purpose.c) Interlaboratory comparisons through PT participation to ensure comparability, reproducibility, and performance verification.
+9. Documentation and Record Control
+Evidence supporting metrological traceability is retained under controlled quality records, including:
+Calibration certificates (Micron Calibration Laboratory – ISO 17025-accredited)
+CRM Certificates and production records (Azuresky internal RMP documentation)
+PT participation reports (Coal Concepts – ISO 17043-accredited)
+ Equipment calibration and maintenance registers
+Method validation and uncertainty documentation
+Traceability matrix linking each parameter to its calibration and CRM referenceAll records are maintained in accordance with ISO/IEC 17025:2017 Clause 8.4 and are readily available for technical audits and management reviews.
+10. Conclusion
+Azuresky (Pty) Ltd ensures full metrological traceability of all measurement results through an unbroken, evidence-based system of calibration, CRM production, and interlaboratory verification.Every analytical result can be traced either directly to SI units or, where SI traceability is not technically achievable, to an appropriate and validated reference.This traceability framework demonstrates Azuresky’s technical competence and underpins its ongoing application for accreditation to:
+ISO/IEC 17025:2017 (Testing Laboratory)
+ISO 17034:2016 (Reference Material Producer)
+ISO 17043:2023 (Proficiency Testing Provider)Through these integrated quality systems, Azuresky maintains analytical integrity, comparability, and confidence in all measurement results.
